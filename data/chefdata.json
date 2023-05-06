@@ -1,0 +1,299 @@
+[
+    {
+        "id":1,
+        "chefPicture": "https://example.com/jamie-oliver.jpg",
+        "chefName": "Jamie Oliver",
+        "bio": "Jamie Oliver is an English chef, restaurateur, and television personality. He is known for his approachable, easy-to-follow recipes and his efforts to improve the quality of school lunches in the UK.",
+        "likes": 30000,
+        "numRecipes": 150,
+        "yearsExperience": 25,
+        "recipes": [
+            {
+                "recipeName": "Bangers and Mash",
+                "ingredients": [
+                    "sausages",
+                    "potatoes",
+                    "butter",
+                    "milk",
+                    "onion"
+                ],
+                "cookingMethod": "Boil potatoes. Mash with butter and milk. Grill or fry sausages. Saute onion. Serve sausages on top of mashed potatoes with onion gravy.",
+                "rating": 4.6,
+                "isFavorite": true
+            },
+            {
+                "recipeName": "Roast Beef and Yorkshire Pudding",
+                "ingredients": [
+                    "beef roast",
+                    "flour",
+                    "eggs",
+                    "milk",
+                    "vegetable oil"
+                ],
+                "cookingMethod": "Season beef roast. Roast in oven. Make Yorkshire pudding batter with flour, eggs, and milk. Heat oil in muffin tin. Pour batter into tin and bake until puffed up. Serve with beef and gravy.",
+                "rating": 4.9,
+                "isFavorite": true
+            },
+            {
+                "recipeName": "Shepherd's Pie",
+                "ingredients": [
+                    "ground lamb",
+                    "vegetables",
+                    "potatoes",
+                    "butter",
+                    "beef broth"
+                ],
+                "cookingMethod": "Cook lamb and vegetables. Top with mashed potatoes and butter. Bake in oven until bubbly. Serve with beef broth.",
+                "rating": 4.5,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "id":2,
+        "chefPicture": "https://example.com/gordon-ramsay.jpg",
+        "chefName": "Gordon Ramsay",
+        "bio": "Gordon Ramsay is an English chef, restaurateur, and television personality. He is known for his fiery personality and high standards in the kitchen. He has several Michelin-starred restaurants and has hosted several popular television shows, including Hell's Kitchen and MasterChef.",
+        "likes": 50000,
+        "numRecipes": 200,
+        "yearsExperience": 30,
+        "recipes": [
+            {
+                "recipeName": "Beef Wellington",
+                "ingredients": [
+                    "beef tenderloin",
+                    "mushrooms",
+                    "puff pastry",
+                    "prosciutto",
+                    "egg wash"
+                ],
+                "cookingMethod": "Season and sear beef tenderloin. Saute mushrooms with garlic and herbs. Wrap beef in prosciutto and mushroom mixture. Roll puff pastry around beef. Brush with egg wash. Bake in oven until golden brown. Rest before serving.",
+                "rating": 4.8,
+                "isFavorite": true
+            },
+            {
+                "recipeName": "Fish and Chips",
+                "ingredients": [
+                    "cod",
+                    "potatoes",
+                    "flour",
+                    "beer",
+                    "malt vinegar"
+                ],
+                "cookingMethod": "Cut potatoes into fries. Fry in oil until golden brown. Season with salt. Mix flour and beer to make batter. Dip cod in batter. Fry in oil until crispy. Serve with malt vinegar and tartar sauce.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "recipeName": "Shepherd's Pie",
+                "ingredients": [
+                    "ground lamb",
+                    "vegetables",
+                    "potatoes",
+                    "butter",
+                    "beef broth"
+                ],
+                "cookingMethod": "Cook lamb and vegetables. Top with mashed potatoes and butter. Bake in oven until bubbly. Serve with beef broth.",
+                "rating": 4.6,
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id":3,
+        "chefPicture": "https://example.com/heston-blumenthal.jpg",
+        "chefName": "Heston Blumenthal",
+        "bio": "Heston Blumenthal is an English chef and owner of The Fat Duck, a three-Michelin-starred restaurant in Bray, Berkshire. He is known for his innovative cooking techniques and scientific approach to cooking. He has authored several cookbooks and has been awarded numerous culinary awards.",
+        "likes": 20000,
+        "numRecipes": 100,
+        "yearsExperience": 35,
+        "recipes": [
+            {
+                "recipeName": "Triple-Cooked Chips",
+                "ingredients": [
+                    "potatoes",
+                    "vegetable oil",
+                    "sea salt"
+                ],
+                "cookingMethod": "Cut potatoes into thick chips. Boil in salted water until tender. Drain and let dry. Fry in oil until golden brown. Drain and let cool. Fry in oil again until crispy. Season with sea salt.",
+                "rating": 4.9,
+                "isFavorite": true
+            },
+            {
+                "recipeName": "Molecular-Gastronomy Scotch Eggs",
+                "ingredients": [
+                    "quail eggs",
+                    "sausage meat",
+                    "breadcrumbs",
+                    "flour",
+                    "egg wash"
+                ],
+                "cookingMethod": "Boil quail eggs. Let cool and peel. Wrap sausage meat around eggs. Roll in flour, egg wash, and breadcrumbs. Freeze until solid. Deep-fry until crispy. Serve with mustard mayonnaise.",
+                "rating": 4.6,
+                "isFavorite": false
+            },
+            {
+                "recipeName": "Roast Beef with Yorkshire Pudding",
+                "ingredients": [
+                    "beef",
+                    "flour",
+                    "eggs",
+                    "milk",
+                    "beef drippings"
+                ],
+                "cookingMethod": "Season and sear beef. Roast in oven until desired doneness. Let rest. Make batter with flour, eggs, and milk. Heat beef drippings in pan. Pour in batter. Bake in oven until puffed and golden. Serve with beef and gravy.",
+                "rating": 4.7,
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id":4,
+        "chefPicture": "https://example.com/nigella-lawson.jpg",
+        "chefName": "Nigella Lawson",
+        "bio": "Nigella Lawson is an English food writer, chef, and television presenter. She is known for her approachable and indulgent cooking style, and her best-selling cookbooks have inspired home cooks around the world. Lawson has hosted several popular television shows, including Nigella Bites and Nigellissima.",
+        "likes": 25000,
+        "numRecipes": 120,
+        "yearsExperience": 25,
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "parmesan cheese",
+                    "black pepper"
+                ],
+                "cookingMethod": "Cook spaghetti in salted water until al dente. Saute pancetta in a pan until crispy. Beat eggs, parmesan cheese, and black pepper together in a bowl. Drain spaghetti and add to the pan with pancetta. Remove from heat and pour egg mixture over the spaghetti. Toss to coat. Serve immediately.",
+                "rating": 4.7,
+                "isFavorite": true
+            },
+            {
+                "recipeName": "Beef Stew",
+                "ingredients": [
+                    "beef chuck",
+                    "carrots",
+                    "onions",
+                    "celery",
+                    "beef stock"
+                ],
+                "cookingMethod": "Season beef chuck with salt and pepper. Brown beef in a Dutch oven over high heat. Remove beef and saute carrots, onions, and celery until softened. Return beef to the Dutch oven and add beef stock. Cover and simmer until beef is tender. Serve hot.",
+                "rating": 4.3,
+                "isFavorite": false
+            },
+            {
+                "recipeName": "Chocolate Cake",
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "cocoa powder",
+                    "baking powder",
+                    "eggs"
+                ],
+                "cookingMethod": "Mix flour, sugar, cocoa powder, and baking powder together in a bowl. Add eggs and mix until smooth. Pour batter into a greased cake pan. Bake in oven until a toothpick comes out clean. Let cool before serving.",
+                "rating": 4.5,
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id":5,
+        "chefPicture": "https://example.com/marco-pierre-white.jpg",
+        "chefName": "Marco Pierre White",
+        "bio": "Marco Pierre White is an English chef, restaurateur, and television personality. He was the youngest chef ever to be awarded three Michelin stars and has trained several successful chefs, including Gordon Ramsay. He has written several cookbooks and hosted several television shows, including Hell's Kitchen.",
+        "likes": 30000,
+        "numRecipes": 150,
+        "yearsExperience": 35,
+        "recipes": [
+            {
+                "recipeName": "Risotto",
+                "ingredients": [
+                    "arborio rice",
+                    "white wine",
+                    "onion",
+                    "garlic",
+                    "parmesan cheese"
+                ],
+                "cookingMethod": "Saute onion and garlic. Add rice and toast. Add white wine and stir until absorbed. Add hot stock one ladleful at a time, stirring until absorbed before adding more. Add parmesan cheese and stir until creamy.",
+                "rating": 4.7,
+                "isFavorite": true
+            },
+            {
+                "recipeName": "Roast Beef",
+                "ingredients": [
+                    "beef roast",
+                    "garlic",
+                    "thyme",
+                    "rosemary",
+                    "olive oil"
+                ],
+                "cookingMethod": "Season beef roast with garlic, thyme, rosemary, and olive oil. Roast in oven at high temperature for a few minutes, then lower temperature and continue roasting until desired doneness. Rest before serving.",
+                "rating": 4.4,
+                "isFavorite": false
+            },
+            {
+                "recipeName": "Lobster Thermidor",
+                "ingredients": [
+                    "lobster",
+                    "butter",
+                    "shallots",
+                    "flour",
+                    "heavy cream"
+                ],
+                "cookingMethod": "Cook lobster and remove meat. Saute shallots in butter. Add flour and cook until bubbly. Add heavy cream and stir until thickened. Add lobster meat and mix. Fill lobster shells with mixture. Bake in oven until golden brown.",
+                "rating": 4.9,
+                "isFavorite": true
+            }
+        ]
+    },
+    {   "id":6,
+        "chefPicture": "https://example.com/john-torode.jpg",
+        "chefName": "John Torode",
+        "bio": "John Torode is an English-Australian chef and television presenter. He is best known as the co-host of MasterChef UK, and has also appeared on other cooking shows like Celebrity MasterChef and John and Lisa's Weekend Kitchen.",
+        "likes": 10000,
+        "numRecipes": 150,
+        "yearsExperience": 25,
+        "recipes": [
+            {
+                "recipeName": "Slow-Cooked Beef Brisket",
+                "ingredients": [
+                    "beef brisket",
+                    "red wine",
+                    "beef stock",
+                    "onions",
+                    "carrots"
+                ],
+                "cookingMethod": "Season beef brisket and brown on all sides. Add red wine, beef stock, onions, and carrots to the pot. Cover and cook on low heat for 6-8 hours until the beef is tender. Slice and serve with the cooking liquid.",
+                "rating": 4.7,
+                "isFavorite": true
+            },
+            {
+                "recipeName": "Grilled Salmon with Lemon and Herbs",
+                "ingredients": [
+                    "salmon fillet",
+                    "lemon",
+                    "dill",
+                    "parsley",
+                    "olive oil"
+                ],
+                "cookingMethod": "Season salmon fillet and brush with olive oil. Grill on high heat for 4-6 minutes on each side until the fish is cooked through. Top with a mixture of chopped herbs and lemon juice. Serve with a side of roasted vegetables.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "recipeName": "Shepherd's Pie",
+                "ingredients": [
+                    "ground lamb",
+                    "vegetables",
+                    "potatoes",
+                    "butter",
+                    "beef broth"
+                ],
+                "cookingMethod": "Cook lamb and vegetables. Top with mashed potatoes and butter. Bake in oven until bubbly. Serve with beef broth.",
+                "rating": 4.6,
+                "isFavorite": true
+            }
+        ]
+    }
+]
